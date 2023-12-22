@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/shirt/static/css/main.bf01e10e.css",
+    "main.js": "/shirt/static/js/main.d8f3a3f3.js",
+    "index.html": "/shirt/index.html",
+    "main.bf01e10e.css.map": "/shirt/static/css/main.bf01e10e.css.map",
+    "main.d8f3a3f3.js.map": "/shirt/static/js/main.d8f3a3f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf01e10e.css",
+    "static/js/main.d8f3a3f3.js"
+  ]
+}
