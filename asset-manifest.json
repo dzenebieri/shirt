@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/shirt/static/css/main.bf01e10e.css",
-    "main.js": "/shirt/static/js/main.5f49917f.js",
+    "main.js": "/shirt/static/js/main.f8dbc63e.js",
     "index.html": "/shirt/index.html",
     "main.bf01e10e.css.map": "/shirt/static/css/main.bf01e10e.css.map",
-    "main.5f49917f.js.map": "/shirt/static/js/main.5f49917f.js.map"
+    "main.f8dbc63e.js.map": "/shirt/static/js/main.f8dbc63e.js.map"
   },
   "entrypoints": [
     "static/css/main.bf01e10e.css",
-    "static/js/main.5f49917f.js"
+    "static/js/main.f8dbc63e.js"
   ]
 }
